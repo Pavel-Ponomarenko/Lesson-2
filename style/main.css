@@ -46,7 +46,7 @@
     display: inline-block;
     width: 350px;
     height: 225px;
-    margin-right: 30px;
+    margin-right: 28px; <!--If I make >28px my page looking not like it should be-->
     margin-left: 143px;
     
 }
@@ -55,7 +55,7 @@
     display: inline-block;
     width: 350px;
     height: 225px;
-    margin-right: 30px;
+    margin-right: 28px; <!--The same-->
 }
 
 .right-box{
