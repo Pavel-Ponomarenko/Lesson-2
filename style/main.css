@@ -46,7 +46,7 @@
     display: inline-block;
     width: 350px;
     height: 225px;
-    margin-right: 28px;
+    margin-right: 32px;
     margin-left: 143px;
     
 }
@@ -55,7 +55,7 @@
     display: inline-block;
     width: 350px;
     height: 225px;
-    margin-right: 28px;
+    margin-right: 32px;
 }
 
 .right-box{
@@ -88,7 +88,7 @@
 
 .subtitle{
     font-weight: 700;
-    font-size: 20px;
+    font-size: 20px; 
     font-family: 'Open Sans', sans-serif;
     color: #333333;
 }
