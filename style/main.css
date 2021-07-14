@@ -1,18 +1,18 @@
-.body{ 
+.body { 
     text-align: center;
 }
 
-.main-box{
+.wrapper {
     margin-left: 100px;
     padding-top: 100px;
 }
 
-.header{
+.header {
     width: 1400px;
     margin-bottom: 67px;
 }
 
-.banner{
+.header__title {
     width: 409px;
     margin-left: 496px;
     text-transform: uppercase;
@@ -22,7 +22,7 @@
     color: #212121;
 }
 
-.qoute{
+.header__text {
     width: 363px;
     margin-left: 519px;
     font-weight: 400;
@@ -31,41 +31,38 @@
     color: #86878B;
 }
 
-.line{
+.header__line {
     width: 64px;
     border: 1px solid #E72424;
 }
 
-.main{
+.main {
     width: 1400px;
     padding-bottom: 89px;
     
 }
 
-.left-box{
+.card {
     display: inline-block;
     width: 350px;
     height: 225px;
+}
+
+.left-card {
     margin-right: 28px;
     margin-left: 143px;
     
 }
 
-.middle-box{
-    display: inline-block;
-    width: 350px;
-    height: 225px;
+.middle-card {
     margin-right: 28px;
 }
 
-.right-box{
-    display: inline-block;
-    width: 350px;
-    height: 225px;
+.right-card {
     margin-right: 143px;
 }
 
-.circle{
+.circle {
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -74,26 +71,26 @@
     margin: 0 auto;
 }
 
-.bulb{
+.bulb {
     margin: 20px 23px 20px 24px;
 }
 
-.keyboard{
+.keyboard {
     margin: 22px 16px 22px 17px;
 }
 
-.lightning{
+.lightning {
     margin: 19px 24px 18px 25px;
 }
 
-.subtitle{
+.card__subtitle {
     font-weight: 700;
     font-size: 20px; 
     font-family: 'Open Sans', sans-serif;
     color: #333333;
 }
 
-.text{
+.card__text {
     width: 360px;
     height: 60px;
     font-weight: 500;
